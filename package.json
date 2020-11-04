@@ -1,8 +1,8 @@
 {
-	"name": "fls_start_gulp",
+	"name": "liveHTML",
 	"version": "1.0.0",
-	"description": "Start template with Gulp",
-	"author": "FLS",
+	"description": "**",
+	"author": "Yusupov Doston",
 	"private": true,
 	"license": "GNU General Public License (GPL)",
 	"devDependencies": {
